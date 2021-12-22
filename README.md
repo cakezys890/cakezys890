@@ -1,6 +1,6 @@
 ### Hi Everyone!  
 
-### Short a simple...I'm on Github to learn about how developers collaborate with one another to get somthing done and, most importantly, discover what subjects and projects interest me the most. 
+### Short and simple...I'm on Github to learn about how developers collaborate with one another to get somthing done and, most importantly, discover what subjects and projects interest me the most. 
 
 ### What am I curious about?  Anything that has to do with wellness surrounding human beings. So nutrition, genes, cardiovascular system, and the brain.  I am also weirdly interested in personal finances/economics. 
 
