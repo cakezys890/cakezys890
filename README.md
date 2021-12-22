@@ -8,6 +8,10 @@
 
 ### What am I looking for? A project that involves a subject I'm interested in and brings me joy.  I can start small with following instructions and contributing to things that aren't clear to a newbie. 
 
+![funny](https://user-images.githubusercontent.com/67643073/147116897-36596935-e2cc-4dc5-bc85-244382110fef.jpg)
+
+
+
 <!--
 **cakezys890/cakezys890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
